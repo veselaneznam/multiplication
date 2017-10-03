@@ -47,3 +47,13 @@ To run the command you need to run
 ```
 composer run-multiplication
 ```
+By Default the number of primes to be multiplied is 10, but if you want to change the number you need to run
+
+```
+composer run-multiplication <intger number>
+```
+
+Example
+```
+composer run-multiplication 2
+```
