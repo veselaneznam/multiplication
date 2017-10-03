@@ -22,9 +22,7 @@ sudo mv composer.phar /usr/local/bin/composer
 ```
 ### Installing
 
-I would recommend you to have it outside of your project, but you can install it as well in your project folder 
-
-Then clone the project inside benchmark folder
+Then clone the project
 
 ```
 git clone git@github.com:veselaneznam/multiplication.git
