@@ -25,7 +25,7 @@ I would recommend you to have it outside of your project, but you can install it
 Then clone the project inside benchmark folder
 
 ```
-git clone 
+git clone git@github.com:veselaneznam/multiplication.git
 ```
 
 After that you need to run composer install
