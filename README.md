@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+You will need php7.1 
+
 You will need an composer installed on your local machine
 
 ```
